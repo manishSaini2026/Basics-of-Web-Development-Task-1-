@@ -42,6 +42,6 @@ This project is a beginner-friendly introduction to **Web Development** using **
 ---
 ## 👨‍💻 Author
 
-**Your Name**
+**Manish Saini**
 
 GitHub: https://github.com/manishSaini2026
