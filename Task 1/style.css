@@ -1,0 +1,41 @@
+*{
+    font-family: cursive;
+    background-color: bisque;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.box{
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 2px;
+    text-align: center;
+
+}
+h1{
+    color: blueviolet;
+    text-shadow: 2px 2px 5px black;
+}
+#btn{
+    color:white ;
+    background-color: rgb(130, 41, 212);
+    padding: 8px;
+    border-radius: 10px;
+    border: none;
+
+}
+#btn:hover{
+    background-color: rgb(92, 1, 177);
+    box-shadow: 2px 2px 5px black
+    
+}
+a{
+    text-decoration: none;
+    
+}
