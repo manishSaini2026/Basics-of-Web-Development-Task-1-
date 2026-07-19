@@ -38,3 +38,8 @@ This project is a beginner-friendly introduction to **Web Development** using **
 - **JavaScript (ES6)**
 
 ---
+## 👨‍💻 Author
+
+**Your Name**
+
+GitHub: https://github.com/manishSaini2026
